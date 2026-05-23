@@ -2,97 +2,93 @@
 
 # 🎨 Java Pattern Programs & HackerRank Solutions
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Java+Pattern+Problems;HackerRank+Solutions;DSA+Practice+Repository;Learn+Logic+with+Patterns" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=Java+Pattern+Problems;Learn+Logic+with+Patterns;HackerRank+Solutions;DSA+Practice+Repository" />
+
+<br/>
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Patterns](https://img.shields.io/badge/Patterns-30+-blue?style=for-the-badge)
+![Patterns](https://img.shields.io/badge/Patterns-30%2B-blue?style=for-the-badge)
 ![DSA](https://img.shields.io/badge/DSA-Practice-success?style=for-the-badge)
-![Status](https://img.shields.io/badge/Maintained-Yes-brightgreen?style=for-the-badge)
+![Maintained](https://img.shields.io/badge/Maintained-Yes-brightgreen?style=for-the-badge)
 
-Learn Java through **Pattern Problems**, **Nested Loops**, **Matrix Traversal**, and **HackerRank Solutions**.
+### Learn Java through Patterns • Logic • Nested Loops • Matrix Traversal
 
 </div>
 
 ---
 
-# 📚 Repository Structure
+# 📚 Table of Contents
 
-```text
-📦 repository
- ┣ 📂 patterns
- ┃ ┣ ⭐ Star Patterns
- ┃ ┣ 🔢 Number Patterns
- ┃ ┣ 🔠 Alphabet Patterns
- ┃ ┣ 🌀 Matrix Patterns
- ┃ ┗ 🧠 Advanced Patterns
- ┗ 📂 hacker-rank
-```
+- [🟢 Easy Patterns](#-easy-patterns)
+- [🟡 Intermediate Patterns](#-intermediate-patterns)
+- [🔴 Advanced Patterns](#-advanced-patterns)
+- [🧠 Concepts Covered](#-concepts-covered)
+- [🚀 Run Locally](#-run-locally)
 
 ---
 
-# ⭐ Star Patterns
+# 🟢 Easy Patterns
+
+Build fundamentals through loops and conditions.
 
 | Pattern | File |
 |---|---|
-| Right Triangle | [RightTriangle.java](./RightTriangle.java) |
-| Inverted Right Triangle | [InvertedRightTriangle.java](./InvertedRightTriangle.java) |
-| Left Triangle | [LeftTriangle.java](./LeftTriangle.java) |
-| Inverted Left Triangle | [InvertedLeftTriangle.java](./InvertedLeftTriangle.java) |
-| Pyramid Pattern | [PyramidPattern.java](./PyramidPattern.java) |
-| Inverted Pyramid | [InvertedPyramid.java](./InvertedPyramid.java) |
-| Hollow Pyramid | [HollowPyramid.java](./HollowPyramid.java) |
-| Diamond Pattern | [DiamondPattern.java](./DiamondPattern.java) |
-| Hollow Diamond | [HollowDiamond.java](./HollowDiamond.java) |
-| Butterfly Pattern | [ButterflyPattern.java](./ButterflyPattern.java) |
-| Hollow Butterfly | [HollowButterfly.java](./HollowButterfly.java) |
-| Sandglass Pattern | [SandglassPattern.java](./SandglassPattern.java) |
 | Rectangle Pattern | [RectanglePattern.java](./RectanglePattern.java) |
 | Hollow Rectangle | [HollowRectangle.java](./HollowRectangle.java) |
 | Square Pattern | [SquarePatternAsterisk.java](./SquarePatternAsterisk.java) |
 | Hollow Square | [HollowSquareAsterisk.java](./HollowSquareAsterisk.java) |
+| Right Triangle | [RightTriangle.java](./RightTriangle.java) |
+| Inverted Right Triangle | [InvertedRightTriangle.java](./InvertedRightTriangle.java) |
+| Left Triangle | [LeftTriangle.java](./LeftTriangle.java) |
+| Inverted Left Triangle | [InvertedLeftTriangle.java](./InvertedLeftTriangle.java) |
 | Hollow Triangle | [HollowTriangle.java](./HollowTriangle.java) |
-| Plus Pattern | [PlusPattern.java](./PlusPattern.java) |
-| X Pattern | [XPattern.java](./XPattern.java) |
-
----
-
-# 🔢 Number Patterns
-
-| Pattern | File |
-|---|---|
-| Square Numbers | [SquarePatternNumbers.java](./SquarePatternNumbers.java) |
+| Binary Triangle | [BinaryTriangle.java](./BinaryTriangle.java) |
 | Increasing Number Triangle | [IncreasingNumberTriangle.java](./IncreasingNumberTriangle.java) |
 | Repeated Number Triangle | [RepeatedNumberTriangle.java](./RepeatedNumberTriangle.java) |
-| Floyd's Triangle | [FloydsTriangle.java](./FloydsTriangle.java) |
-| Pascal Triangle | [PascalTriangle.java](./PascalTriangle.java) |
-| Palindrome Number Pyramid | [PalindromeNumberPyramid.java](./PalindromeNumberPyramid.java) |
-| Binary Triangle | [BinaryTriangle.java](./BinaryTriangle.java) |
-| Snake Pattern | [SnakePattern.java](./SnakePattern.java) |
-| Spiral Square Pattern | [SpiralSquarePattern.java](./SpiralSquarePattern.java) |
-
----
-
-# 🔠 Alphabet Patterns
-
-| Pattern | File |
-|---|---|
+| Square Pattern Numbers | [SquarePatternNumbers.java](./SquarePatternNumbers.java) |
 | Alphabet Triangle | [AlphabetTriangle.java](./AlphabetTriangle.java) |
 | Repeated Alphabet Pattern | [RepeatedAlphabetPattern.java](./RepeatedAlphabetPattern.java) |
 | Continuous Alphabet Pattern | [ContinuousAlphabetPattern.java](./ContinuousAlphabetPattern.java) |
 
 ---
 
-# 🌀 Matrix Patterns
+# 🟡 Intermediate Patterns
+
+Learn symmetry and boundary conditions.
 
 | Pattern | File |
 |---|---|
+| Pyramid Pattern | [PyramidPattern.java](./PyramidPattern.java) |
+| Inverted Pyramid | [InvertedPyramid.java](./InvertedPyramid.java) |
+| Hollow Pyramid | [HollowPyramid.java](./HollowPyramid.java) |
+| Floyd's Triangle | [FloydsTriangle.java](./FloydsTriangle.java) |
+| Pascal Triangle | [PascalTriangle.java](./PascalTriangle.java) |
+| Palindrome Number Pyramid | [PalindromeNumberPyramid.java](./PalindromeNumberPyramid.java) |
+| Diamond Pattern | [DiamondPattern.java](./DiamondPattern.java) |
+| Hollow Diamond | [HollowDiamond.java](./HollowDiamond.java) |
+| Plus Pattern | [PlusPattern.java](./PlusPattern.java) |
+| X Pattern | [XPattern.java](./XPattern.java) |
+| Sandglass Pattern | [SandglassPattern.java](./SandglassPattern.java) |
+
+---
+
+# 🔴 Advanced Patterns
+
+Combine symmetry, matrices, and traversal.
+
+| Pattern | File |
+|---|---|
+| Butterfly Pattern | [ButterflyPattern.java](./ButterflyPattern.java) |
+| Hollow Butterfly | [HollowButterfly.java](./HollowButterfly.java) |
+| Snake Pattern | [SnakePattern.java](./SnakePattern.java) |
+| Spiral Square Pattern | [SpiralSquarePattern.java](./SpiralSquarePattern.java) |
 | Spiral Matrix | [SpiralMatrix.java](./SpiralMatrix.java) |
 
 ---
 
 # 🏆 HackerRank Problem Solutions
 
-| Description | File |
+| Problem | File |
 |---|---|
 | Addition of Two Numbers | [Addition.java](./Addition.java) |
 | Array Sum | [ArraySum.java](./ArraySum.java) |
@@ -103,40 +99,34 @@ Learn Java through **Pattern Problems**, **Nested Loops**, **Matrix Traversal**,
 
 ---
 
-# 🎯 Learning Roadmap
+# 🎯 Learning Journey
 
-### Beginner
-✅ Rectangle  
-✅ Square  
-✅ Triangle  
-✅ Number Patterns  
-
+```text
+Easy
 ↓
-
-### Intermediate
-✅ Pyramid  
-✅ Diamond  
-✅ Hollow Shapes  
-
+Loops
 ↓
-
-### Advanced
-✅ Pascal Triangle  
-✅ Spiral Matrix  
-✅ Snake Pattern  
-✅ Butterfly Pattern  
+Patterns
+↓
+Symmetry
+↓
+Matrix Traversal
+↓
+Advanced Problem Solving
+```
 
 ---
 
 # 🧠 Concepts Covered
 
-| Concept | Covered |
+| Concept | Status |
 |---|---|
 | Nested Loops | ✅ |
+| Conditional Logic | ✅ |
+| Pattern Recognition | ✅ |
 | Matrix Traversal | ✅ |
 | Boundary Conditions | ✅ |
 | Symmetry | ✅ |
-| Dynamic Printing | ✅ |
 | Coordinates Logic | ✅ |
 | Space Optimization | ✅ |
 
@@ -144,32 +134,59 @@ Learn Java through **Pattern Problems**, **Nested Loops**, **Matrix Traversal**,
 
 # 🚀 Run Locally
 
+Clone repository:
+
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
+git clone https://github.com/<your-username>/java-interview-playbook.git
+```
 
-cd <repo-name>
+Go to folder:
 
-javac Pattern.java
+```bash
+cd pattern-print
+```
 
-java Pattern
+Compile:
+
+```bash
+javac FileName.java
+```
+
+Run:
+
+```bash
+java FileName
+```
+
+Example:
+
+```bash
+javac DiamondPattern.java
+java DiamondPattern
 ```
 
 ---
 
 # 🌟 Contribute
 
-Found an improvement?
-
 ```text
-Fork → Create Branch → Commit → Push → PR
+Fork
+ ↓
+Create Branch
+ ↓
+Commit
+ ↓
+Push
+ ↓
+Open Pull Request
 ```
 
 ---
 
 <div align="center">
 
-### ⭐ If this repository helped you, consider giving it a star ⭐
+## ⭐ If this repository helped you, give it a star
 
-Made with ❤️ and Java
+Built with ❤️ and Java
 
 </div>
