@@ -86,19 +86,6 @@ Combine symmetry, matrices, and traversal.
 
 ---
 
-# 🏆 HackerRank Problem Solutions
-
-| Problem | File |
-|---|---|
-| Addition of Two Numbers | [Addition.java](./Addition.java) |
-| Array Sum | [ArraySum.java](./ArraySum.java) |
-| Compare the Triplets | [ComparetheTriplets.java](./ComparetheTriplets.java) |
-| A Very Big Sum | [AVeryBigSum.java](./AVeryBigSum.java) |
-| Diagonal Difference | [diagonalDifference.java](./diagonalDifference.java) |
-| Plus Minus | [PlusMinus.java](./PlusMinus.java) |
-
----
-
 # 🎯 Learning Journey
 
 ```text
